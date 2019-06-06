@@ -1,5 +1,5 @@
 # LDASM
-A literal disassembler for the NES game crystalis (to produce output that reassembles with ca65). It works for what I need it to but it's not pretty. The good parts are heavily adapted from dcc6502 (https://github.com/tcarmelveilleux/dcc6502/blob/master/dcc6502.c). If you're here, you might also find my crystalisdisassembly repo (https://github.com/crystalisdisassembly/crystalisdisassembly) interesting.
+A literal disassembler for the NES game crystalis (to produce output that reassembles with ca65). It works for what I need it to but it's not pretty. There's probably better alternatives, but I enjoyed writing this. The good parts are heavily adapted from dcc6502 (https://github.com/tcarmelveilleux/dcc6502/blob/master/dcc6502.c). If you're here, you might also find my crystalisdisassembly repo (https://github.com/crystalisdisassembly/crystalisdisassembly) interesting.
 
 Note: I do not really maintain this repo, but in case it's of interest to you, the files are here, and should be buildable with visual studio.
 
